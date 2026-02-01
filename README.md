@@ -72,6 +72,8 @@ email setup is verfied in mail
 <img width="829" height="479" alt="image" src="https://github.com/user-attachments/assets/11b6605b-1fc1-4687-99f5-9da0e8ded71f" />
 
 Installing stress command for testing.
+
+```bash
 sudo apt update
 sudo apt install stress -y
 stress --cpu 2 --timeout 300
