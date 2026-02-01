@@ -1,4 +1,4 @@
-##Task 1: Create a storage account using Azure Portal. Enable secure transfer, add tags, create a container, and upload a sample file. Share the container link with limited access.
+## Task 1: Create a storage account using Azure Portal. Enable secure transfer, add tags, create a container, and upload a sample file. Share the container link with limited access.
 
 Create a storage account
 
@@ -35,7 +35,7 @@ Anyone with this link can read the file
 <img width="940" height="276" alt="image" src="https://github.com/user-attachments/assets/64132cf7-43ee-42bf-80bb-a0f3cf1aa7c2" />
 
 
-##Task 2: Create a VM (use existing if needed), set up Azure Monitor to track CPU usage, and configure an alert to notify via email if CPU exceeds 80% over a 5-minute period 
+## Task 2: Create a VM (use existing if needed), set up Azure Monitor to track CPU usage, and configure an alert to notify via email if CPU exceeds 80% over a 5-minute period 
 
 <img width="940" height="701" alt="image" src="https://github.com/user-attachments/assets/d98b4578-39ea-4837-b9b4-47670d7e1c1d" />
 
