@@ -73,11 +73,12 @@ email setup is verfied in mail
 
 Installing stress command for testing.
 
-```bash
+```
 sudo apt update
 sudo apt install stress -y
 stress --cpu 2 --timeout 300
 
+```
 
 VM is 80% cpu consumed.
 
